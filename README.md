@@ -14,16 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on improving my coding skills
+🔭 I’m currently working as a Member Technical Staff at Oracle.
 
-🌱 I’m currently learning Reactjs
+🌱 I’m currently learning into a lot of new stuff like System Design, Machine and Deep Learning.
 
-👯 I’m looking to collaborate on github
-
-💬 Ask me about books
-
-⚡ Fun fact:Human population is 12 million years old and we hardly remain alive for 80 years still we take ourshelves so seriously😄 
-
-🥅 To achieve complete financial and mental freedom and to make a dent in this long process of evolution⚡.
 
 📫 How to reach me: gourabomm2001@gmail.com
